@@ -1,4 +1,4 @@
-package com.ucreativa;
+package ucreativa.com;
 
 public class Televisor {
 

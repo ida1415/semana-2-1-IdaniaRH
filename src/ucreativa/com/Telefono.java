@@ -1,18 +1,18 @@
 /**
  * 
  */
-package com.ucreativa;
+package ucreativa.com;
 
 /**
  * @author Idania
  *
  */
-public class Impresora {
+public class Telefono {
 
 	/**
 	 * 
 	 */
-	public Impresora() {
+	public Telefono() {
 		// TODO Auto-generated constructor stub
 	}
 
